@@ -1,0 +1,75 @@
+https://keybase.io/kousha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kousha.net
+  * I am kousha (https://keybase.io/kousha) on keybase.
+  * I have a public key with fingerprint 9F6F 5F2B 9B2A EF74 AE34  ED6F DFAB 8D24 60EF A781
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "9f6f5f2b9b2aef74ae34ed6fdfab8d2460efa781",
+            "host": "keybase.io",
+            "key_id": "DFAB8D2460EFA781",
+            "uid": "e5d5a6e049454c150c08c26648384d00",
+            "username": "kousha"
+        },
+        "merkle_root": {
+            "ctime": 1398843900,
+            "hash": "ee63a68df7d311959ef707ecd3f5b9dc5a5e6f864ca396d017db249c08843a22b07d2d8f0883ec5d98dad622c0512f284b09182e14a73dca9ce844772d58412c",
+            "seqno": 2578
+        },
+        "service": {
+            "hostname": "kousha.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398844066,
+    "expire_in": 157680000,
+    "prev": "d128064701e4f4f4aa9c370d4778e76c8e71d2cd542db28f6013a8105b37917c",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+Comment: GPGTools - http://gpgtools.org
+
+owFVkn2IFkUcx5876w4vjg6MzvQkb1FDuB5nZmdnZh/rj9PnEaEXS1HJS56bnZl9
+nvWe233c3XvjOOvon46jkKKrjPpD00wS5UAiNLBS0VSEOhCFE0OwsuiNurKic+ZM
+8FgYdmY+853v9/ebnY1zMg01v+QKueDgYFPN2e+9zIbOA7sHLS+SA1Zu0BKVQIWp
++Qt5t7JyVpca8HiiskG0OIykym5LFv/PtFm9Kk6CKNQUyNpZZA21Gdwc9oOwpOJq
+HBgty/WJ7/jIcz3ElU8xVzZWkvjS5x6TCBOgfE4Z1JLlKEln3WrNaBYDqVfza9pX
+sbzhC2vab/M9MxvKkQ4nCmAXO1hABwjABCIEM5thCYABExXfiRT1JGVu3HaruKui
+inEUzUQWaWAAaLuMYdsFQPvhSdlcoIjNCZM+lTaEruPqGIAqIW3f8VwpHO4o4jOC
+BbddIgGk0kPY1Ta0EEfIA1QiyXw9t5VwpMsklwQhARyIfMSwB1zIkIKYU1sK7grF
+MKYUSYdhiIQOkKjtYWTlkEPZkJnFvYFQxrUp2axk2VCZ7lTjKI1EVNHr5TSt5kzg
+dKBquD7lFW8r7FdFLwilbtfd/YQanVUMDAhps1R/NYhVMTCEQwkDwJSoGqterSkh
+YoBgCqDCvv64DmFTIHUKpigReoASCelgpGvDfAKgzRkEjmdTF9K7IkKojfKS1kyC
+UsjTnlhZQyM1LfdkahoydffWmhebaZjbdOcZr4b102sPvfrwRNLx9UfvT1zr2/Nu
+897sz9et5j+8+vGLzfcVSpemHxl7uVCqT91/trw5/HbryskdC2pHHj2+PB+suPrt
+ieYHftr15Nqntjz9muzr3FY9Pj2++jQfmXvhy31NR5fgqan3Rivrt3aPTS77+MqH
+oxt3H5na/nz637zz3rMbRjf+/eDZY611rwx031i4tUg/WfX7WN3hz36Yc/X8ldZj
+f+ZeOFe7l1yKLp/rz794pql//Ak8/M2S2p1v3H/6U75s4Xcr5l9v8YfGbzZ2nJq/
+I//OX+ue++KhDz6/sWh/ZepmX+7w+vbNS1862bFgZee+jl2vL235d7jrwleFicKm
+t8ro8cmjj21+5vLFX3/8rZFfuwU=
+=OgCY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kousha
+
