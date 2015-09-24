@@ -20,6 +20,10 @@ handlers:
   static_files: index.html
   upload: index.html
 
+- url: /
+  static_files: index.html
+  upload: index.html
+
 - url: /keybase.txt
   static_files: keybase.txt
   upload: keybase.txt
